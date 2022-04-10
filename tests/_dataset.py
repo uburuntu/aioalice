@@ -204,9 +204,6 @@ EXPECTED_ALICE_RESPONSE_ITEMS_LIST_WITH_BUTTON = {
         "end_session": False
     },
     "session": BASE_SESSION,
-    "session_state": {},
-    "user_state_update": {},
-    "application_state": {},
     "version": "1.0"
 }
 
